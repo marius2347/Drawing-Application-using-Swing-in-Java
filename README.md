@@ -7,9 +7,6 @@
 - Custom Cursor Size Slider
 - Drawing Buttons: Clear, Eraser, Color
 
-## Acknowledgments
-
-**Java**: [http://bit.ly/java-certifications](http://bit.ly/java-certifications)  
 
 ## Demo Video
 
