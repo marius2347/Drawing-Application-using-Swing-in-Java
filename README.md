@@ -1,4 +1,4 @@
-# Drawing Application in Java using Swing
+# Drawing Application using Swing in Java 
 
 ## Features
 - Run the application in console: `java DrawingApp`
